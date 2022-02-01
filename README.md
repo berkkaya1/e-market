@@ -1,6 +1,6 @@
-# fmarket
+# e-market ui
 
-A new Flutter project.
+A basic e-commerce ui made by Flutter
 
 ## Getting Started
 
